@@ -1,5 +1,9 @@
 /* Main Styles File */
 
-body {
-  background-color: red;
+.sidebar {
+  float: left;
+}
+
+.main {
+  float: right;
 }
