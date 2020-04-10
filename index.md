@@ -17,7 +17,11 @@
    <h5><em>Colombian soprano with a promissing career. Currently under Sandra Lopez Neill at <strong>University of Miami</strong></em></h5>
    </header>
    
-   <main> 
+  <aisde class="sidebar">
+   Sidebar Content
+  </aside
+   
+   <main class="main"> 
    <h2>Roles</h2>
  <table>
   <tr>
